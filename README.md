@@ -114,7 +114,7 @@ Patch-Antenna-with-Metamaterial-Superstrate
 The time-domain voltage graph represents the transient response of the antenna during simulation.
 
 <p align="center">
-<img src="Images/time_voltage_graph.png" width="700">
+  <img src="Simulation-Results/Time_voltage_graph.png" width="700">
 </p>
 
 ---
@@ -124,7 +124,7 @@ The time-domain voltage graph represents the transient response of the antenna d
 The feed impedance graph illustrates the variation of the antenna input impedance across the operating frequency range. The impedance is close to **50 Ω**, indicating proper impedance matching.
 
 <p align="center">
-<img src="Images/impedance_graph.png" width="700">
+  <img src="Simulation-Results/Feed_impedance_graph.png" width="700">
 </p>
 
 ---
@@ -134,7 +134,7 @@ The feed impedance graph illustrates the variation of the antenna input impedanc
 The Reflection Coefficient (S11) graph shows that the antenna achieves a return loss below **−10 dB** at **2.45 GHz**, indicating good impedance matching and efficient power transfer.
 
 <p align="center">
-<img src="Images/reflection_coefficient_s11.png" width="700">
+  <img src="Simulation-Results/s11_graph.png" width="700">
 </p>
 
 ---
@@ -154,8 +154,8 @@ The far-field radiation pattern illustrates the directional characteristics of t
 The three-dimensional radiation pattern provides a complete visualization of the antenna's radiation characteristics. The main radiation lobe is directed toward the **+Z-axis**, demonstrating improved beam focusing.
 
 <p align="center">
-<img src="Images/antenna_3d_visualization.png" width="700">
-</p>
+  <img src="Simulation-Results/antenna_3D_visulization.png" width="700">
+</p>>
 
 ---
 
