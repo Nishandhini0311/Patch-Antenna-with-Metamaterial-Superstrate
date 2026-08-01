@@ -155,7 +155,7 @@ The three-dimensional radiation pattern provides a complete visualization of the
 
 <p align="center">
   <img src="Simulation-Results/antenna_3D_visualization.png" width="700">
-</p>>
+</p>
 
 ---
 
