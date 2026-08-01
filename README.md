@@ -144,7 +144,7 @@ The Reflection Coefficient (S11) graph shows that the antenna achieves a return 
 The far-field radiation pattern illustrates the directional characteristics of the antenna. The addition of the metamaterial superstrate enhances the directivity of the antenna.
 
 <p align="center">
-<img src="Images/far_field_pattern.png" width="700">
+  <img src="Simulation-Results/far_field_graph.png" width="700">
 </p>
 
 ---
@@ -154,7 +154,7 @@ The far-field radiation pattern illustrates the directional characteristics of t
 The three-dimensional radiation pattern provides a complete visualization of the antenna's radiation characteristics. The main radiation lobe is directed toward the **+Z-axis**, demonstrating improved beam focusing.
 
 <p align="center">
-  <img src="Simulation-Results/antenna_3D_visulization.png" width="700">
+  <img src="Simulation-Results/antenna_3D_visualization.png" width="700">
 </p>>
 
 ---
