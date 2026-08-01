@@ -154,7 +154,7 @@ The far-field radiation pattern illustrates the directional characteristics of t
 The three-dimensional radiation pattern provides a complete visualization of the antenna's radiation characteristics. The main radiation lobe is directed toward the **+Z-axis**, demonstrating improved beam focusing.
 
 <p align="center">
-  <img src="Simulation-Results/antenna_3D_visualization.png" width="700">
+  <img src="Simulation-Results/antenna_3D_visualization .png" width="700">
 </p>
 
 ---
